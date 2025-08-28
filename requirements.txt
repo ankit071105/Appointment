@@ -11,4 +11,3 @@ pytz
 timezonefinder
 requests
 google-generativeai
-simpleaudio   # instead of playsound (works reliably)

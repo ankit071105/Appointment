@@ -11,3 +11,5 @@ pytz
 timezonefinder
 requests
 google-generativeai
+sounddevice
+soundfile

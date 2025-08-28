@@ -1,0 +1,15 @@
+streamlit
+gtts
+SpeechRecognition
+pyaudio
+Pillow
+pandas
+plotly
+python-dotenv
+pytz
+timezonefinder
+playsound
+sounddevice
+soundfile
+requests
+google-generativeai

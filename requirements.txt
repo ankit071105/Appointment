@@ -1,15 +1,14 @@
 streamlit
-gtts
+gTTS
 SpeechRecognition
-pyaudio
+sounddevice
+soundfile
 Pillow
 pandas
 plotly
 python-dotenv
 pytz
 timezonefinder
-playsound
-sounddevice
-soundfile
 requests
 google-generativeai
+simpleaudio   # instead of playsound (works reliably)

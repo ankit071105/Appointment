@@ -10,8 +10,9 @@ import base64
 import speech_recognition as sr
 import hashlib
 import time
-import sounddevice as sd
-import soundfile as sf
+from gtts import gTTS
+from io import BytesIO
+import streamlit as st
 from tempfile import NamedTemporaryFile
 import google.generativeai as genai
 import pandas as pd

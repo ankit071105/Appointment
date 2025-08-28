@@ -10,4 +10,5 @@ python-dotenv
 pytz
 timezonefinder
 requests
+PortAudio
 google-generativeai
